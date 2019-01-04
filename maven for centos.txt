@@ -2,10 +2,10 @@ cd /usr/local/src
 
 wget http://mirrors.estointernet.in/apache/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
 
-tar -xf apache-maven-3.5.2-bin.tar.gz
-rm -f apache-maven-3.5.2-bin.tar.gz
+tar -xf apache-maven-3.6.0-bin.tar.gz
+rm -f apache-maven-3.6.0-bin.tar.gz
 
-mv apache-maven-3.5.2/ apache-maven/
+mv apache-maven-3.6.0/ apache-maven/
 
 cd /etc/profile.d/
 vim maven.sh
