@@ -1,6 +1,7 @@
 cd /usr/local/src
-wget 
-http://mirrors.fibergrid.in/apache/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+
+wget http://mirrors.estointernet.in/apache/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+
 tar -xf apache-maven-3.5.2-bin.tar.gz
 rm -f apache-maven-3.5.2-bin.tar.gz
 
